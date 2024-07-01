@@ -1,0 +1,21 @@
+<mj-raw>
+  <!--LOGO-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-image
+      width="230px"
+      height="43px"
+      src="../assets/logo.jpg"
+      alt="Patagonia Logo"
+      href="https://www.patagonia.com/home/"
+    />
+    <mj-image
+      width="600px"
+      height="600px"
+      src="../assets/climb.jpg"
+      alt="Woman climbing a mountain"
+      href="https://www.patagonia.com/home/"
+    />
+  </mj-column>
+</mj-section>

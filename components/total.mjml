@@ -1,0 +1,90 @@
+<mj-raw>
+  <!--ORDER TOTAL-->
+</mj-raw>
+<mj-section>
+  <mj-column width="30%" padding="0"> </mj-column>
+  <mj-column width="45%">
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="600"
+      padding-top="0"
+      padding-bottom="0"
+    >
+      Subtotal
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="600"
+      padding-top="2px"
+      padding-bottom="0"
+    >
+      Shipping
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="600"
+      padding-top="2px"
+      padding-bottom="0"
+    >
+      Estimated Tax
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-weight="800"
+      font-size="18px"
+      line-height="24px"
+      padding-top="2px"
+      padding-bottom="0"
+    >
+      Total
+    </mj-text>
+  </mj-column>
+  <mj-column width="15%">
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="400"
+      padding="0"
+      >$59.00
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="400"
+      padding="0"
+      >$0.00
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="24px"
+      font-weight="400"
+      padding="0"
+      >$03.54
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-weight="800"
+      font-size="18px"
+      line-height="24px"
+      padding="0"
+      >$62.54
+    </mj-text>
+  </mj-column>
+</mj-section>

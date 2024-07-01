@@ -1,0 +1,23 @@
+<mj-raw>
+  <!--DELIVERY UPDATES-->
+</mj-raw>
+<mj-section background-color="#F5F5F5">
+  <mj-column width="100%" padding="0" background-color="#F5F5F5">
+    <mj-image padding="0" />
+
+    <mj-text
+      align="center"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+      padding="0"
+    >
+      Get text updates about your delivery.&nbsp;&nbsp;<a
+        href="https://www.patagonia.com/order-status/"
+        style="color: #000000"
+        >Sign Up</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>

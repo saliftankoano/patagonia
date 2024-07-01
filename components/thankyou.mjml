@@ -1,0 +1,39 @@
+<mj-raw>
+  <!--THANK YOU-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text
+      align="center"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="50px"
+      line-height="60px"
+      font-weight="800"
+    >
+      Thank you for<br />shopping<br />at Patagonia
+    </mj-text>
+  </mj-column>
+  <mj-column width="80%" padding-top="20px">
+    <mj-text
+      align="center"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="26px"
+      font-weight="600"
+    >
+      Your order is being processed. As soon as it ships, we'll send you a
+      shipping confirmation email with tracking information.
+    </mj-text>
+    <mj-text
+      align="center"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="16px"
+      line-height="26px"
+      font-weight="600"
+      padding-top="20px"
+    >
+      We encourage you to go to your order status page and sign up for text
+      updates as there may be unexpected delays.
+    </mj-text>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,58 @@
+<mj-raw>
+  <!--FOOTER-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text
+      padding-top="20px"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      line-height="20px"
+      font-size="16px"
+      font-weight="800"
+      color="#000000"
+      align="center"
+    >
+      <a
+        href="https://www.patagonia.com/actionworks/"
+        alias="paw foot"
+        style="color: #000000; text-decoration: none"
+        >Sign up. Show up. Take action.</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text align="center">
+      <a href="https://www.patagonia.com/actionworks/" alias="paw foot"
+        ><img
+          class="HeroTwoForty"
+          src="./assets/action.png"
+          alt="Patagonia Action Works"
+          width="300"
+          height="26"
+          style="text-align: center"
+          border="0" /></a
+      ><span class="Block">&nbsp;</span>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      line-height="20px"
+      font-size="15px"
+      font-weight="800"
+      color="#000000"
+      align="center"
+      padding-top="15px"
+    >
+      Patagonia, Inc.
+    </mj-text>
+    <mj-text color="#333333" align="center" padding-top="0">
+      8550 White Fir St., Reno, NV 89523 |
+      <a
+        href="https://help.patagonia.com/"
+        style="color: #333333; text-decoration: underline"
+        >Help Center</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>

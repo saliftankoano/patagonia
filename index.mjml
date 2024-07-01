@@ -1,0 +1,12 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/thankyou.mjml" />
+    <mj-include path="./components/delivery.mjml" />
+    <mj-include path="./components/order-details.mjml" />
+    <mj-include path="./components/item-details.mjml" />
+    <mj-include path="./components/total.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

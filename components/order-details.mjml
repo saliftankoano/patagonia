@@ -1,0 +1,148 @@
+<mj-raw>
+  <!--ORDER DETAILS-->
+</mj-raw>
+<mj-section padding="0">
+  <mj-column width="100%" padding="0">
+    <mj-spacer height="20px" />
+  </mj-column>
+</mj-section>
+<mj-section background-color="#F5F5F5">
+  <mj-raw>
+    <!--ORDER NUMBER & SHIPPING ADDRESS-->
+  </mj-raw>
+  <mj-column width="33.33%" padding="0" background-color="#F5F5F5">
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Order Number
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="normal"
+      color="#EF4923"
+      padding-top="0"
+    >
+      US65005000
+    </mj-text>
+    <mj-spacer height="20px" />
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Shipping Address
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="400"
+    >
+      Michael Jordan<br />
+      600 Montgomery St<br />
+      San Francisco, CA <br />
+      94111 United States
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!--ORDER DATE & BILLING ADDRESS-->
+  </mj-raw>
+  <mj-column width="33.33%" padding="0" background-color="#F5F5F5">
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Order Date
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="normal"
+      color="#EF4923"
+      padding-top="0"
+    >
+      June 19th, 2023
+    </mj-text>
+    <mj-spacer height="20px" />
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Billing Address
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="400"
+    >
+      Michael Jordan<br />
+      600 Montgomery St<br />
+      San Francisco, CA <br />
+      94111 United States
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!--SHIPPING & PAYMENT METHOD -->
+  </mj-raw>
+  <mj-column width="33.33%" padding="0" background-color="#F5F5F5">
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Shipping Method
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="normal"
+      color="#EF4923"
+      padding-top="0"
+    >
+      Ground
+    </mj-text>
+    <mj-spacer height="20px" />
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="800"
+    >
+      Payment Method
+    </mj-text>
+    <mj-text
+      align="left"
+      font-family="Nunito Sans, Arial, Helvetica, sans-serif"
+      font-size="15px"
+      line-height="22px"
+      font-weight="400"
+    >
+      Paypal
+    </mj-text>
+  </mj-column>
+</mj-section>
