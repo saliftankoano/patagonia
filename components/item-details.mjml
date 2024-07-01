@@ -6,7 +6,7 @@
     <mj-image
       width="200px"
       padding="0"
-      src="./assets/shorts.jpg"
+      src="../assets/shorts.jpg"
       alt="shorts"
     />
   </mj-column>
